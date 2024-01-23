@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FilipVolny
-- 👀 Currently I'm interested in gamedev and rendering photorealistic graphics! 👁👅👁
-- 🌱 I’m currently learning and programming in C#. How to use github effectively and would like to learn typescript soon.
+- 👀 Currently I'm interested in gamedev and rendering photorealistic graphics! 👁👁
+- 🌱 I’m currently learning C#, using github effectively and would like to learn typescript soon.
 - ⚡ Fun fact: I like piña coladas and getting caught in the rain. 🌴🌦🌴
