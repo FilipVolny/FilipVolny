@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FilipVolny
+- 👀 Currently I'm interested in gamedev and rendering photorealistic graphics! 👁👅👁
+- 🌱 I’m currently learning and programming in C#. 
+- ⚡ Fun fact: I like piña coladas and getting caught in the rain. 🌴🌦🌴
